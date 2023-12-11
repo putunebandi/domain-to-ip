@@ -1,6 +1,5 @@
 #!/bin/bash
 #Trust me, this code is made with love
-#This code is totally free to tweak, as long as you give a shoutout to the original author. Screw those Script Kiddies hha.
 
 echo "
     _______
