@@ -22,11 +22,7 @@ Simple bash script to convert bulk domain lists to ip addresses, recon tool for 
 You can follow the following commands for tool installation
 
 ```bash
-$ git clone https://github.com/putunebandi/domain-to-ip.git && cd domain-to-ip
-$ sudo ln -s "$(pwd)/dom2ip.sh" /usr/bin/dom2ip
-$ sudo chmod +x /usr/bin/dom2ip
+git clone https://github.com/putunebandi/domain-to-ip.git && cd domain-to-ip
+sudo ln -s "$(pwd)/dom2ip.sh" /usr/bin/dom2ip
+sudo chmod +x /usr/bin/dom2ip
 ```
-
-## Version
-
-**Current version is 0.1** and still development.
