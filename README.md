@@ -10,6 +10,7 @@
  /    __   / Bulk domain to ip
  \________/ Coded by putunebandi
 
+ Use: dom2ip.sh input.txt output.txt
 
 ```
 
